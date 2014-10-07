@@ -1,0 +1,6 @@
+commit: HEAD
+process_files: [SupermercadoOne-Regular.ttf.ttx, src/SupermercadoOne-Regular.otf.ttx,
+  src/SupermercadoOne-Regular-TTF.sfd, src/SupermercadoOne-Regular-OTF.sfd]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"

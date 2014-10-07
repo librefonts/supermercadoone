@@ -1,0 +1,51 @@
+{
+  "name": "Supermercado One",
+  "designer": "James Grieshaber",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Display",
+  "size": 19460,
+  "fonts": [
+    {
+      "name": "Supermercado",
+      "style": "normal",
+      "weight": 400,
+      "filename": "SupermercadoOne-Regular-TTF.ttf",
+      "postScriptName": "SupermercadoOne-Regular",
+      "fullName": "Supermercado One Regular",
+      "copyright": "Copyright (c) 2011-2012, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name \"Supermercado\". "
+    },
+    {
+      "name": "Supermercado",
+      "style": "normal",
+      "weight": 400,
+      "filename": "SupermercadoOne-Regular-OTF.ttf",
+      "postScriptName": "SupermercadoOne-Regular",
+      "fullName": "SupermercadoOne-Regular",
+      "copyright": "Copyright (c) 2011-2012, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name \"Supermercado\". "
+    },
+    {
+      "name": "Supermercado",
+      "style": "normal",
+      "weight": 400,
+      "filename": "SupermercadoOne-Regular.ttf",
+      "postScriptName": "Supermercado-Regular",
+      "fullName": "Supermercado One Regular",
+      "copyright": "Copyright (c) 2011-2012, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name \"Supermercado\"."
+    },
+    {
+      "name": "Supermercado",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Supermercado-Regular.ttf",
+      "postScriptName": "Supermercado-Regular",
+      "fullName": "Supermercado Regular",
+      "copyright": "Copyright (c) 2011-2012, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name \"Supermercado\"."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2011-11-02"
+}
